@@ -1,6 +1,6 @@
 # Greetings! 👋
 
-Welcome aboard my GitHub journey! I'm Premkumar, a fervent explorer of the realms of Software Development and Artificial Intelligence. With an insatiable curiosity, I delve into the captivating domains of Cloud, DevOps, and Machine Learning, all while forging connections within the vibrant GitHub community.
+Welcome aboard my GitHub journey! I'm Naveen Kumar, a fervent explorer of the realms of Software Development and Artificial Intelligence. With an insatiable curiosity, I delve into the captivating domains of Cloud, DevOps, and Machine Learning, all while forging connections within the vibrant GitHub community.
 
 ## 🚀 Present Ventures
 
